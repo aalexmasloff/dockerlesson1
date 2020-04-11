@@ -1,0 +1,1 @@
+docker push alexmasloff/webappindocker:dev

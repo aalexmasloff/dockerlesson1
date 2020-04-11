@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webapplicationindocker:
+    image: ${DOCKER_REGISTRY-}webapplicationindocker
+    build:
+      context: .
+      dockerfile: WebApplicationInDocker/Dockerfile

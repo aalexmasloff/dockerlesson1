@@ -5,3 +5,6 @@
 /.vs/WebApplicationInDocker/v15/Server/sqlite3
 /WebApplicationInDocker/obj
 /WebApplicationInDocker/bin
+/.vs/WebApplicationInDocker
+/bin/Debug
+/obj
